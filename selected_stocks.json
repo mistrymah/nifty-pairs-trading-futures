@@ -1,0 +1,352 @@
+[
+    {
+        "symbol": "ZEEL",
+        "key": "NSE_EQ|INE256A01028",
+        "close": 114.86,
+        "avg_volume": 69784172.15,
+        "atr_pct": 6.017263252157908
+    },
+    {
+        "symbol": "SAIL",
+        "key": "NSE_EQ|INE114A01011",
+        "close": 169.18,
+        "avg_volume": 20180660.3,
+        "atr_pct": 3.7078006518838755
+    },
+    {
+        "symbol": "WIPRO",
+        "key": "NSE_EQ|INE075A01022",
+        "close": 174.49,
+        "avg_volume": 33228745.2,
+        "atr_pct": 3.163095715677526
+    },
+    {
+        "symbol": "ADANIPOWER",
+        "key": "NSE_EQ|INE814H01029",
+        "close": 231.39,
+        "avg_volume": 38705285.25,
+        "atr_pct": 3.1523772480598606
+    },
+    {
+        "symbol": "ASHOKLEY",
+        "key": "NSE_EQ|INE208A01029",
+        "close": 151.46,
+        "avg_volume": 32156745.4,
+        "atr_pct": 3.1059591405557305
+    },
+    {
+        "symbol": "INFY",
+        "key": "NSE_EQ|INE009A01021",
+        "close": 1029.3,
+        "avg_volume": 17056215.4,
+        "atr_pct": 3.2879488140345012
+    },
+    {
+        "symbol": "BHEL",
+        "key": "NSE_EQ|INE257A01026",
+        "close": 399.85,
+        "avg_volume": 11802327.4,
+        "atr_pct": 3.7558727379910293
+    },
+    {
+        "symbol": "NMDC",
+        "key": "NSE_EQ|INE584A01023",
+        "close": 85.26,
+        "avg_volume": 34164392.0,
+        "atr_pct": 2.7881103180188305
+    },
+    {
+        "symbol": "CANBK",
+        "key": "NSE_EQ|INE476A01022",
+        "close": 130.37,
+        "avg_volume": 31916515.1,
+        "atr_pct": 2.74603052849582
+    },
+    {
+        "symbol": "BANDHANBNK",
+        "key": "NSE_EQ|INE545U01014",
+        "close": 207.12,
+        "avg_volume": 9141932.85,
+        "atr_pct": 3.3296777575456584
+    },
+    {
+        "symbol": "RVNL",
+        "key": "NSE_EQ|INE415G01027",
+        "close": 240.13,
+        "avg_volume": 12876961.0,
+        "atr_pct": 2.94751057462922
+    },
+    {
+        "symbol": "IDFCFIRSTB",
+        "key": "NSE_EQ|INE092T01019",
+        "close": 78.75,
+        "avg_volume": 32252019.25,
+        "atr_pct": 2.575056689342405
+    },
+    {
+        "symbol": "HINDALCO",
+        "key": "NSE_EQ|INE038A01020",
+        "close": 986.8,
+        "avg_volume": 6999614.05,
+        "atr_pct": 3.1595633794660953
+    },
+    {
+        "symbol": "WOCKPHARMA",
+        "key": "NSE_EQ|INE049B01025",
+        "close": 2010.4,
+        "avg_volume": 3614106.75,
+        "atr_pct": 4.889929509408222
+    },
+    {
+        "symbol": "BANKBARODA",
+        "key": "NSE_EQ|INE028A01039",
+        "close": 277.8,
+        "avg_volume": 14680438.75,
+        "atr_pct": 2.7717782577393795
+    },
+    {
+        "symbol": "COFORGE",
+        "key": "NSE_EQ|INE591G01025",
+        "close": 1481.2,
+        "avg_volume": 3660824.25,
+        "atr_pct": 3.3346514409166335
+    },
+    {
+        "symbol": "HINDPETRO",
+        "key": "NSE_EQ|INE094A01015",
+        "close": 396.75,
+        "avg_volume": 6406819.85,
+        "atr_pct": 2.9129534611576204
+    },
+    {
+        "symbol": "VBL",
+        "key": "NSE_EQ|INE200M01039",
+        "close": 504.3,
+        "avg_volume": 5895433.45,
+        "atr_pct": 2.919180759751848
+    },
+    {
+        "symbol": "DLF",
+        "key": "NSE_EQ|INE271C01023",
+        "close": 612.35,
+        "avg_volume": 4611973.7,
+        "atr_pct": 2.9949025417303363
+    },
+    {
+        "symbol": "PFC",
+        "key": "NSE_EQ|INE134E01011",
+        "close": 430.9,
+        "avg_volume": 6487385.9,
+        "atr_pct": 2.698670556642244
+    },
+    {
+        "symbol": "TECHM",
+        "key": "NSE_EQ|INE669C01036",
+        "close": 1415.6,
+        "avg_volume": 2642604.5,
+        "atr_pct": 3.110745569773545
+    },
+    {
+        "symbol": "COALINDIA",
+        "key": "NSE_EQ|INE522F01014",
+        "close": 444.35,
+        "avg_volume": 21794484.05,
+        "atr_pct": 2.2786092044559476
+    },
+    {
+        "symbol": "JSWENERGY",
+        "key": "NSE_EQ|INE121E01018",
+        "close": 568.9,
+        "avg_volume": 3625780.2,
+        "atr_pct": 2.942395098310022
+    },
+    {
+        "symbol": "BPCL",
+        "key": "NSE_EQ|INE029A01011",
+        "close": 308.55,
+        "avg_volume": 9448341.6,
+        "atr_pct": 2.574252841632519
+    },
+    {
+        "symbol": "SHRIRAMFIN",
+        "key": "NSE_EQ|INE721A01047",
+        "close": 993.35,
+        "avg_volume": 5735980.45,
+        "atr_pct": 2.6828408919313436
+    },
+    {
+        "symbol": "HCLTECH",
+        "key": "NSE_EQ|INE860A01027",
+        "close": 1109.5,
+        "avg_volume": 3999455.55,
+        "atr_pct": 2.688469709650421
+    },
+    {
+        "symbol": "TATASTEEL",
+        "key": "NSE_EQ|INE081A01020",
+        "close": 193.56,
+        "avg_volume": 30742967.55,
+        "atr_pct": 2.1861069288223653
+    },
+    {
+        "symbol": "PNB",
+        "key": "NSE_EQ|INE160A01022",
+        "close": 107.43,
+        "avg_volume": 20446016.7,
+        "atr_pct": 2.214066302309808
+    },
+    {
+        "symbol": "VOLTAS",
+        "key": "NSE_EQ|INE226A01021",
+        "close": 1327.4,
+        "avg_volume": 1361841.25,
+        "atr_pct": 3.3411179749887014
+    },
+    {
+        "symbol": "TCS",
+        "key": "NSE_EQ|INE467B01029",
+        "close": 2059.6,
+        "avg_volume": 6146621.05,
+        "atr_pct": 2.5400216408179124
+    },
+    {
+        "symbol": "GAIL",
+        "key": "NSE_EQ|INE129A01019",
+        "close": 173.84,
+        "avg_volume": 9887587.6,
+        "atr_pct": 2.407796989021104
+    },
+    {
+        "symbol": "JUBLFOOD",
+        "key": "NSE_EQ|INE797F01020",
+        "close": 423.45,
+        "avg_volume": 4951243.4,
+        "atr_pct": 2.590118583742387
+    },
+    {
+        "symbol": "HDFCBANK",
+        "key": "NSE_EQ|INE040A01034",
+        "close": 774.65,
+        "avg_volume": 39748913.75,
+        "atr_pct": 2.0880397598915645
+    },
+    {
+        "symbol": "TRENT",
+        "key": "NSE_EQ|INE849A01020",
+        "close": 3142.9,
+        "avg_volume": 1615179.2,
+        "atr_pct": 3.159275100794079
+    },
+    {
+        "symbol": "ONGC",
+        "key": "NSE_EQ|INE213A01029",
+        "close": 244.35,
+        "avg_volume": 17085002.0,
+        "atr_pct": 2.215791166067408
+    },
+    {
+        "symbol": "KPITTECH",
+        "key": "NSE_EQ|INE04I401011",
+        "close": 741.15,
+        "avg_volume": 1345689.4,
+        "atr_pct": 3.2300189859388415
+    },
+    {
+        "symbol": "ADANIENT",
+        "key": "NSE_EQ|INE423A01024",
+        "close": 2962.9,
+        "avg_volume": 2332878.7,
+        "atr_pct": 2.7043967541453116
+    },
+    {
+        "symbol": "TATACOMM",
+        "key": "NSE_EQ|INE151A01013",
+        "close": 2023.2,
+        "avg_volume": 927401.05,
+        "atr_pct": 4.000734338812632
+    },
+    {
+        "symbol": "BAJFINANCE",
+        "key": "NSE_EQ|INE296A01032",
+        "close": 962.4,
+        "avg_volume": 10985341.95,
+        "atr_pct": 2.276674385464912
+    },
+    {
+        "symbol": "BDL",
+        "key": "NSE_EQ|INE171Z01026",
+        "close": 1390.6,
+        "avg_volume": 1799592.1,
+        "atr_pct": 2.9154938258922183
+    },
+    {
+        "symbol": "JIOFIN",
+        "key": "NSE_EQ|INE758E01017",
+        "close": 237.81,
+        "avg_volume": 12358387.75,
+        "atr_pct": 2.190223888218084
+    },
+    {
+        "symbol": "INDUSINDBK",
+        "key": "NSE_EQ|INE095A01012",
+        "close": 905.45,
+        "avg_volume": 2172954.15,
+        "atr_pct": 2.6687598116169533
+    },
+    {
+        "symbol": "GLAND",
+        "key": "NSE_EQ|INE068V01023",
+        "close": 2298.2,
+        "avg_volume": 680494.15,
+        "atr_pct": 3.771274413516167
+    },
+    {
+        "symbol": "AMBUJACEM",
+        "key": "NSE_EQ|INE079A01024",
+        "close": 414.85,
+        "avg_volume": 3535724.8,
+        "atr_pct": 2.4595809156493718
+    },
+    {
+        "symbol": "FEDERALBNK",
+        "key": "NSE_EQ|INE171A01029",
+        "close": 319.9,
+        "avg_volume": 20146933.35,
+        "atr_pct": 2.0575626311793846
+    },
+    {
+        "symbol": "BEL",
+        "key": "NSE_EQ|INE263A01024",
+        "close": 420.0,
+        "avg_volume": 12847951.5,
+        "atr_pct": 2.160714285714286
+    },
+    {
+        "symbol": "MUTHOOTFIN",
+        "key": "NSE_EQ|INE414G01012",
+        "close": 3119.6,
+        "avg_volume": 745161.9,
+        "atr_pct": 3.4001611928269186
+    },
+    {
+        "symbol": "IEX",
+        "key": "NSE_EQ|INE022Q01020",
+        "close": 124.8,
+        "avg_volume": 5039045.0,
+        "atr_pct": 2.3454670329670324
+    },
+    {
+        "symbol": "RELIANCE",
+        "key": "NSE_EQ|INE002A01018",
+        "close": 1309.5,
+        "avg_volume": 18350854.85,
+        "atr_pct": 2.0465826651393675
+    },
+    {
+        "symbol": "PERSISTENT",
+        "key": "NSE_EQ|INE262H01021",
+        "close": 4836.5,
+        "avg_volume": 632796.0,
+        "atr_pct": 3.4809705956196186
+    }
+]

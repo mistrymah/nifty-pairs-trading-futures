@@ -1,0 +1,29 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sensitive credentials & API tokens
+.env
+*.env
+token.txt
+access_token.txt
+.nifty_trading_token
+*.key
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Scratch and local data caches
+scratch/
+market_data/
+*.log
+
+# IDE & Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo

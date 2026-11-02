@@ -1,0 +1,1310 @@
+{
+    "VEDL": {
+        "key": "NSE_FO|61742",
+        "expiry": "2026-11-23",
+        "lot": 1150,
+        "symbol": "VEDL26NOVFUT"
+    },
+    "VMM": {
+        "key": "NSE_FO|61743",
+        "expiry": "2026-11-23",
+        "lot": 4850,
+        "symbol": "VMM26NOVFUT"
+    },
+    "VOLTAS": {
+        "key": "NSE_FO|61744",
+        "expiry": "2026-11-23",
+        "lot": 375,
+        "symbol": "VOLTAS26NOVFUT"
+    },
+    "WAAREEENER": {
+        "key": "NSE_FO|61745",
+        "expiry": "2026-11-23",
+        "lot": 175,
+        "symbol": "WAAREEENER26NOVFUT"
+    },
+    "WIPRO": {
+        "key": "NSE_FO|61746",
+        "expiry": "2026-11-23",
+        "lot": 3000,
+        "symbol": "WIPRO26NOVFUT"
+    },
+    "YESBANK": {
+        "key": "NSE_FO|61750",
+        "expiry": "2026-11-23",
+        "lot": 31100,
+        "symbol": "YESBANK26NOVFUT"
+    },
+    "ZYDUSLIFE": {
+        "key": "NSE_FO|61751",
+        "expiry": "2026-11-23",
+        "lot": 450,
+        "symbol": "ZYDUSLIFE26NOVFUT"
+    },
+    "UJJIVANSFB": {
+        "key": "NSE_FO|59141",
+        "expiry": "2026-11-23",
+        "lot": 8000,
+        "symbol": "UJJIVANSFB26NOVFUT"
+    },
+    "UNOMINDA": {
+        "key": "NSE_FO|61739",
+        "expiry": "2026-11-23",
+        "lot": 550,
+        "symbol": "UNOMINDA26NOVFUT"
+    },
+    "UPL": {
+        "key": "NSE_FO|61740",
+        "expiry": "2026-11-23",
+        "lot": 1355,
+        "symbol": "UPL26NOVFUT"
+    },
+    "VBL": {
+        "key": "NSE_FO|61741",
+        "expiry": "2026-11-23",
+        "lot": 1275,
+        "symbol": "VBL26NOVFUT"
+    },
+    "ULTRACEMCO": {
+        "key": "NSE_FO|61736",
+        "expiry": "2026-11-23",
+        "lot": 50,
+        "symbol": "ULTRACEMCO26NOVFUT"
+    },
+    "UNIONBANK": {
+        "key": "NSE_FO|61737",
+        "expiry": "2026-11-23",
+        "lot": 4425,
+        "symbol": "UNIONBANK26NOVFUT"
+    },
+    "UNITDSPR": {
+        "key": "NSE_FO|61738",
+        "expiry": "2026-11-23",
+        "lot": 400,
+        "symbol": "UNITDSPR26NOVFUT"
+    },
+    "SONACOMS": {
+        "key": "NSE_FO|61711",
+        "expiry": "2026-11-23",
+        "lot": 1225,
+        "symbol": "SONACOMS26NOVFUT"
+    },
+    "SRF": {
+        "key": "NSE_FO|61712",
+        "expiry": "2026-11-23",
+        "lot": 200,
+        "symbol": "SRF26NOVFUT"
+    },
+    "SUNPHARMA": {
+        "key": "NSE_FO|61713",
+        "expiry": "2026-11-23",
+        "lot": 350,
+        "symbol": "SUNPHARMA26NOVFUT"
+    },
+    "SHREECEM": {
+        "key": "NSE_FO|61707",
+        "expiry": "2026-11-23",
+        "lot": 25,
+        "symbol": "SHREECEM26NOVFUT"
+    },
+    "SHRIRAMFIN": {
+        "key": "NSE_FO|61708",
+        "expiry": "2026-11-23",
+        "lot": 825,
+        "symbol": "SHRIRAMFIN26NOVFUT"
+    },
+    "SIEMENS": {
+        "key": "NSE_FO|61709",
+        "expiry": "2026-11-23",
+        "lot": 175,
+        "symbol": "SIEMENS26NOVFUT"
+    },
+    "SOLARINDS": {
+        "key": "NSE_FO|61710",
+        "expiry": "2026-11-23",
+        "lot": 25,
+        "symbol": "SOLARINDS26NOVFUT"
+    },
+    "SBICARD": {
+        "key": "NSE_FO|61704",
+        "expiry": "2026-11-23",
+        "lot": 800,
+        "symbol": "SBICARD26NOVFUT"
+    },
+    "SBILIFE": {
+        "key": "NSE_FO|61705",
+        "expiry": "2026-11-23",
+        "lot": 375,
+        "symbol": "SBILIFE26NOVFUT"
+    },
+    "SBIN": {
+        "key": "NSE_FO|61706",
+        "expiry": "2026-11-23",
+        "lot": 750,
+        "symbol": "SBIN26NOVFUT"
+    },
+    "SAIL": {
+        "key": "NSE_FO|61702",
+        "expiry": "2026-11-23",
+        "lot": 4700,
+        "symbol": "SAIL26NOVFUT"
+    },
+    "TATASTEEL": {
+        "key": "NSE_FO|61723",
+        "expiry": "2026-11-23",
+        "lot": 2750,
+        "symbol": "TATASTEEL26NOVFUT"
+    },
+    "TMPV": {
+        "key": "NSE_FO|61730",
+        "expiry": "2026-11-23",
+        "lot": 1600,
+        "symbol": "TMPV26NOVFUT"
+    },
+    "TORNTPHARM": {
+        "key": "NSE_FO|61731",
+        "expiry": "2026-11-23",
+        "lot": 125,
+        "symbol": "TORNTPHARM26NOVFUT"
+    },
+    "TRENT": {
+        "key": "NSE_FO|61732",
+        "expiry": "2026-11-23",
+        "lot": 225,
+        "symbol": "TRENT26NOVFUT"
+    },
+    "TVSMOTOR": {
+        "key": "NSE_FO|61735",
+        "expiry": "2026-11-23",
+        "lot": 175,
+        "symbol": "TVSMOTOR26NOVFUT"
+    },
+    "TCS": {
+        "key": "NSE_FO|61724",
+        "expiry": "2026-11-23",
+        "lot": 225,
+        "symbol": "TCS26NOVFUT"
+    },
+    "TECHM": {
+        "key": "NSE_FO|61725",
+        "expiry": "2026-11-23",
+        "lot": 600,
+        "symbol": "TECHM26NOVFUT"
+    },
+    "TIINDIA": {
+        "key": "NSE_FO|61728",
+        "expiry": "2026-11-23",
+        "lot": 200,
+        "symbol": "TIINDIA26NOVFUT"
+    },
+    "TITAN": {
+        "key": "NSE_FO|61729",
+        "expiry": "2026-11-23",
+        "lot": 175,
+        "symbol": "TITAN26NOVFUT"
+    },
+    "TATAELXSI": {
+        "key": "NSE_FO|61721",
+        "expiry": "2026-11-23",
+        "lot": 125,
+        "symbol": "TATAELXSI26NOVFUT"
+    },
+    "TATAPOWER": {
+        "key": "NSE_FO|61722",
+        "expiry": "2026-11-23",
+        "lot": 1450,
+        "symbol": "TATAPOWER26NOVFUT"
+    },
+    "SWIGGY": {
+        "key": "NSE_FO|61716",
+        "expiry": "2026-11-23",
+        "lot": 1825,
+        "symbol": "SWIGGY26NOVFUT"
+    },
+    "TATACONSUM": {
+        "key": "NSE_FO|61718",
+        "expiry": "2026-11-23",
+        "lot": 550,
+        "symbol": "TATACONSUM26NOVFUT"
+    },
+    "SUPREMEIND": {
+        "key": "NSE_FO|61714",
+        "expiry": "2026-11-23",
+        "lot": 175,
+        "symbol": "SUPREMEIND26NOVFUT"
+    },
+    "SUZLON": {
+        "key": "NSE_FO|61715",
+        "expiry": "2026-11-23",
+        "lot": 12700,
+        "symbol": "SUZLON26NOVFUT"
+    },
+    "M&M": {
+        "key": "NSE_FO|61637",
+        "expiry": "2026-11-23",
+        "lot": 200,
+        "symbol": "M&M26NOVFUT"
+    },
+    "MAHABANK": {
+        "key": "NSE_FO|61640",
+        "expiry": "2026-11-23",
+        "lot": 6500,
+        "symbol": "MAHABANK26NOVFUT"
+    },
+    "MANAPPURAM": {
+        "key": "NSE_FO|61641",
+        "expiry": "2026-11-23",
+        "lot": 3000,
+        "symbol": "MANAPPURAM26NOVFUT"
+    },
+    "MAXHEALTH": {
+        "key": "NSE_FO|61645",
+        "expiry": "2026-11-23",
+        "lot": 525,
+        "symbol": "MAXHEALTH26NOVFUT"
+    },
+    "MAZDOCK": {
+        "key": "NSE_FO|61648",
+        "expiry": "2026-11-23",
+        "lot": 225,
+        "symbol": "MAZDOCK26NOVFUT"
+    },
+    "MCX": {
+        "key": "NSE_FO|61649",
+        "expiry": "2026-11-23",
+        "lot": 225,
+        "symbol": "MCX26NOVFUT"
+    },
+    "MANKIND": {
+        "key": "NSE_FO|61642",
+        "expiry": "2026-11-23",
+        "lot": 250,
+        "symbol": "MANKIND26NOVFUT"
+    },
+    "MARICO": {
+        "key": "NSE_FO|61643",
+        "expiry": "2026-11-23",
+        "lot": 1200,
+        "symbol": "MARICO26NOVFUT"
+    },
+    "MARUTI": {
+        "key": "NSE_FO|61644",
+        "expiry": "2026-11-23",
+        "lot": 50,
+        "symbol": "MARUTI26NOVFUT"
+    },
+    "LICI": {
+        "key": "NSE_FO|61631",
+        "expiry": "2026-11-23",
+        "lot": 1400,
+        "symbol": "LICI26NOVFUT"
+    },
+    "LTM": {
+        "key": "NSE_FO|61635",
+        "expiry": "2026-11-23",
+        "lot": 150,
+        "symbol": "LTM26NOVFUT"
+    },
+    "LUPIN": {
+        "key": "NSE_FO|61636",
+        "expiry": "2026-11-23",
+        "lot": 425,
+        "symbol": "LUPIN26NOVFUT"
+    },
+    "LODHA": {
+        "key": "NSE_FO|61632",
+        "expiry": "2026-11-23",
+        "lot": 625,
+        "symbol": "LODHA26NOVFUT"
+    },
+    "LT": {
+        "key": "NSE_FO|61633",
+        "expiry": "2026-11-23",
+        "lot": 175,
+        "symbol": "LT26NOVFUT"
+    },
+    "LTF": {
+        "key": "NSE_FO|61634",
+        "expiry": "2026-11-23",
+        "lot": 2250,
+        "symbol": "LTF26NOVFUT"
+    },
+    "NHPC": {
+        "key": "NSE_FO|61662",
+        "expiry": "2026-11-23",
+        "lot": 6950,
+        "symbol": "NHPC26NOVFUT"
+    },
+    "NMDC": {
+        "key": "NSE_FO|61663",
+        "expiry": "2026-11-23",
+        "lot": 6750,
+        "symbol": "NMDC26NOVFUT"
+    },
+    "NESTLEIND": {
+        "key": "NSE_FO|61661",
+        "expiry": "2026-11-23",
+        "lot": 500,
+        "symbol": "NESTLEIND26NOVFUT"
+    },
+    "OIL": {
+        "key": "NSE_FO|61668",
+        "expiry": "2026-11-23",
+        "lot": 1400,
+        "symbol": "OIL26NOVFUT"
+    },
+    "NTPC": {
+        "key": "NSE_FO|61664",
+        "expiry": "2026-11-23",
+        "lot": 1500,
+        "symbol": "NTPC26NOVFUT"
+    },
+    "NYKAA": {
+        "key": "NSE_FO|61665",
+        "expiry": "2026-11-23",
+        "lot": 3125,
+        "symbol": "NYKAA26NOVFUT"
+    },
+    "OBEROIRLTY": {
+        "key": "NSE_FO|61666",
+        "expiry": "2026-11-23",
+        "lot": 350,
+        "symbol": "OBEROIRLTY26NOVFUT"
+    },
+    "OFSS": {
+        "key": "NSE_FO|61667",
+        "expiry": "2026-11-23",
+        "lot": 50,
+        "symbol": "OFSS26NOVFUT"
+    },
+    "MFSL": {
+        "key": "NSE_FO|61650",
+        "expiry": "2026-11-23",
+        "lot": 400,
+        "symbol": "MFSL26NOVFUT"
+    },
+    "MOTHERSON": {
+        "key": "NSE_FO|61651",
+        "expiry": "2026-11-23",
+        "lot": 6150,
+        "symbol": "MOTHERSON26NOVFUT"
+    },
+    "MOTILALOFS": {
+        "key": "NSE_FO|61652",
+        "expiry": "2026-11-23",
+        "lot": 775,
+        "symbol": "MOTILALOFS26NOVFUT"
+    },
+    "MPHASIS": {
+        "key": "NSE_FO|61653",
+        "expiry": "2026-11-23",
+        "lot": 275,
+        "symbol": "MPHASIS26NOVFUT"
+    },
+    "NAUKRI": {
+        "key": "NSE_FO|61657",
+        "expiry": "2026-11-23",
+        "lot": 550,
+        "symbol": "NAUKRI26NOVFUT"
+    },
+    "NBCC": {
+        "key": "NSE_FO|61658",
+        "expiry": "2026-11-23",
+        "lot": 6500,
+        "symbol": "NBCC26NOVFUT"
+    },
+    "MUTHOOTFIN": {
+        "key": "NSE_FO|61654",
+        "expiry": "2026-11-23",
+        "lot": 275,
+        "symbol": "MUTHOOTFIN26NOVFUT"
+    },
+    "NAM-INDIA": {
+        "key": "NSE_FO|61655",
+        "expiry": "2026-11-23",
+        "lot": 625,
+        "symbol": "NAM-INDIA26NOVFUT"
+    },
+    "NATIONALUM": {
+        "key": "NSE_FO|61656",
+        "expiry": "2026-11-23",
+        "lot": 1875,
+        "symbol": "NATIONALUM26NOVFUT"
+    },
+    "JUBLFOOD": {
+        "key": "NSE_FO|61620",
+        "expiry": "2026-11-23",
+        "lot": 1250,
+        "symbol": "JUBLFOOD26NOVFUT"
+    },
+    "KOTAKBANK": {
+        "key": "NSE_FO|61627",
+        "expiry": "2026-11-23",
+        "lot": 2000,
+        "symbol": "KOTAKBANK26NOVFUT"
+    },
+    "KPITTECH": {
+        "key": "NSE_FO|61628",
+        "expiry": "2026-11-23",
+        "lot": 775,
+        "symbol": "KPITTECH26NOVFUT"
+    },
+    "LAURUSLABS": {
+        "key": "NSE_FO|61629",
+        "expiry": "2026-11-23",
+        "lot": 425,
+        "symbol": "LAURUSLABS26NOVFUT"
+    },
+    "LICHSGFIN": {
+        "key": "NSE_FO|61630",
+        "expiry": "2026-11-23",
+        "lot": 1000,
+        "symbol": "LICHSGFIN26NOVFUT"
+    },
+    "KALYANKJIL": {
+        "key": "NSE_FO|61621",
+        "expiry": "2026-11-23",
+        "lot": 1350,
+        "symbol": "KALYANKJIL26NOVFUT"
+    },
+    "KAYNES": {
+        "key": "NSE_FO|61624",
+        "expiry": "2026-11-23",
+        "lot": 150,
+        "symbol": "KAYNES26NOVFUT"
+    },
+    "KEI": {
+        "key": "NSE_FO|61625",
+        "expiry": "2026-11-23",
+        "lot": 175,
+        "symbol": "KEI26NOVFUT"
+    },
+    "KFINTECH": {
+        "key": "NSE_FO|61626",
+        "expiry": "2026-11-23",
+        "lot": 575,
+        "symbol": "KFINTECH26NOVFUT"
+    },
+    "JSWENERGY": {
+        "key": "NSE_FO|61618",
+        "expiry": "2026-11-23",
+        "lot": 1075,
+        "symbol": "JSWENERGY26NOVFUT"
+    },
+    "JSWSTEEL": {
+        "key": "NSE_FO|61619",
+        "expiry": "2026-11-23",
+        "lot": 675,
+        "symbol": "JSWSTEEL26NOVFUT"
+    },
+    "IRFC": {
+        "key": "NSE_FO|61614",
+        "expiry": "2026-11-23",
+        "lot": 5425,
+        "symbol": "IRFC26NOVFUT"
+    },
+    "ITC": {
+        "key": "NSE_FO|61615",
+        "expiry": "2026-11-23",
+        "lot": 1725,
+        "symbol": "ITC26NOVFUT"
+    },
+    "JINDALSTEL": {
+        "key": "NSE_FO|61616",
+        "expiry": "2026-11-23",
+        "lot": 625,
+        "symbol": "JINDALSTEL26NOVFUT"
+    },
+    "JIOFIN": {
+        "key": "NSE_FO|61617",
+        "expiry": "2026-11-23",
+        "lot": 2350,
+        "symbol": "JIOFIN26NOVFUT"
+    },
+    "INDUSTOWER": {
+        "key": "NSE_FO|61607",
+        "expiry": "2026-11-23",
+        "lot": 1700,
+        "symbol": "INDUSTOWER26NOVFUT"
+    },
+    "INFY": {
+        "key": "NSE_FO|61608",
+        "expiry": "2026-11-23",
+        "lot": 400,
+        "symbol": "INFY26NOVFUT"
+    },
+    "INOXWIND": {
+        "key": "NSE_FO|61611",
+        "expiry": "2026-11-23",
+        "lot": 6400,
+        "symbol": "INOXWIND26NOVFUT"
+    },
+    "IOC": {
+        "key": "NSE_FO|61612",
+        "expiry": "2026-11-23",
+        "lot": 4875,
+        "symbol": "IOC26NOVFUT"
+    },
+    "PATANJALI": {
+        "key": "NSE_FO|61673",
+        "expiry": "2026-11-23",
+        "lot": 1075,
+        "symbol": "PATANJALI26NOVFUT"
+    },
+    "PAYTM": {
+        "key": "NSE_FO|61674",
+        "expiry": "2026-11-23",
+        "lot": 725,
+        "symbol": "PAYTM26NOVFUT"
+    },
+    "PERSISTENT": {
+        "key": "NSE_FO|61675",
+        "expiry": "2026-11-23",
+        "lot": 125,
+        "symbol": "PERSISTENT26NOVFUT"
+    },
+    "PETRONET": {
+        "key": "NSE_FO|61676",
+        "expiry": "2026-11-23",
+        "lot": 1900,
+        "symbol": "PETRONET26NOVFUT"
+    },
+    "ONGC": {
+        "key": "NSE_FO|61669",
+        "expiry": "2026-11-23",
+        "lot": 2250,
+        "symbol": "ONGC26NOVFUT"
+    },
+    "PAGEIND": {
+        "key": "NSE_FO|61672",
+        "expiry": "2026-11-23",
+        "lot": 20,
+        "symbol": "PAGEIND26NOVFUT"
+    },
+    "RBLBANK": {
+        "key": "NSE_FO|61695",
+        "expiry": "2026-11-23",
+        "lot": 3175,
+        "symbol": "RBLBANK26NOVFUT"
+    },
+    "RECLTD": {
+        "key": "NSE_FO|61696",
+        "expiry": "2026-11-23",
+        "lot": 1575,
+        "symbol": "RECLTD26NOVFUT"
+    },
+    "RELIANCE": {
+        "key": "NSE_FO|61697",
+        "expiry": "2026-11-23",
+        "lot": 500,
+        "symbol": "RELIANCE26NOVFUT"
+    },
+    "RVNL": {
+        "key": "NSE_FO|61698",
+        "expiry": "2026-11-23",
+        "lot": 1925,
+        "symbol": "RVNL26NOVFUT"
+    },
+    "POWERINDIA": {
+        "key": "NSE_FO|61691",
+        "expiry": "2026-11-23",
+        "lot": 25,
+        "symbol": "POWERINDIA26NOVFUT"
+    },
+    "PREMIERENE": {
+        "key": "NSE_FO|61692",
+        "expiry": "2026-11-23",
+        "lot": 650,
+        "symbol": "PREMIERENE26NOVFUT"
+    },
+    "PRESTIGE": {
+        "key": "NSE_FO|61693",
+        "expiry": "2026-11-23",
+        "lot": 450,
+        "symbol": "PRESTIGE26NOVFUT"
+    },
+    "RADICO": {
+        "key": "NSE_FO|61694",
+        "expiry": "2026-11-23",
+        "lot": 150,
+        "symbol": "RADICO26NOVFUT"
+    },
+    "SAGILITY": {
+        "key": "NSE_FO|61701",
+        "expiry": "2026-11-23",
+        "lot": 12000,
+        "symbol": "SAGILITY26NOVFUT"
+    },
+    "POWERGRID": {
+        "key": "NSE_FO|61690",
+        "expiry": "2026-11-23",
+        "lot": 1900,
+        "symbol": "POWERGRID26NOVFUT"
+    },
+    "PIIND": {
+        "key": "NSE_FO|61681",
+        "expiry": "2026-11-23",
+        "lot": 175,
+        "symbol": "PIIND26NOVFUT"
+    },
+    "PNB": {
+        "key": "NSE_FO|61682",
+        "expiry": "2026-11-23",
+        "lot": 8000,
+        "symbol": "PNB26NOVFUT"
+    },
+    "PNBHOUSING": {
+        "key": "NSE_FO|61683",
+        "expiry": "2026-11-23",
+        "lot": 650,
+        "symbol": "PNBHOUSING26NOVFUT"
+    },
+    "PFC": {
+        "key": "NSE_FO|61677",
+        "expiry": "2026-11-23",
+        "lot": 1300,
+        "symbol": "PFC26NOVFUT"
+    },
+    "PGEL": {
+        "key": "NSE_FO|61678",
+        "expiry": "2026-11-23",
+        "lot": 950,
+        "symbol": "PGEL26NOVFUT"
+    },
+    "PHOENIXLTD": {
+        "key": "NSE_FO|61679",
+        "expiry": "2026-11-23",
+        "lot": 350,
+        "symbol": "PHOENIXLTD26NOVFUT"
+    },
+    "PIDILITIND": {
+        "key": "NSE_FO|61680",
+        "expiry": "2026-11-23",
+        "lot": 500,
+        "symbol": "PIDILITIND26NOVFUT"
+    },
+    "POLICYBZR": {
+        "key": "NSE_FO|61686",
+        "expiry": "2026-11-23",
+        "lot": 350,
+        "symbol": "POLICYBZR26NOVFUT"
+    },
+    "POLYCAB": {
+        "key": "NSE_FO|61689",
+        "expiry": "2026-11-23",
+        "lot": 125,
+        "symbol": "POLYCAB26NOVFUT"
+    },
+    "DIXON": {
+        "key": "NSE_FO|61560",
+        "expiry": "2026-11-23",
+        "lot": 50,
+        "symbol": "DIXON26NOVFUT"
+    },
+    "DMART": {
+        "key": "NSE_FO|61562",
+        "expiry": "2026-11-23",
+        "lot": 150,
+        "symbol": "DMART26NOVFUT"
+    },
+    "DLF": {
+        "key": "NSE_FO|61561",
+        "expiry": "2026-11-23",
+        "lot": 950,
+        "symbol": "DLF26NOVFUT"
+    },
+    "EICHERMOT": {
+        "key": "NSE_FO|61564",
+        "expiry": "2026-11-23",
+        "lot": 100,
+        "symbol": "EICHERMOT26NOVFUT"
+    },
+    "DRREDDY": {
+        "key": "NSE_FO|61563",
+        "expiry": "2026-11-23",
+        "lot": 625,
+        "symbol": "DRREDDY26NOVFUT"
+    },
+    "ENRIN": {
+        "key": "NSE_FO|58957",
+        "expiry": "2026-11-23",
+        "lot": 175,
+        "symbol": "ENRIN26NOVFUT"
+    },
+    "FEDERALBNK": {
+        "key": "NSE_FO|61566",
+        "expiry": "2026-11-23",
+        "lot": 2500,
+        "symbol": "FEDERALBNK26NOVFUT"
+    },
+    "ETERNAL": {
+        "key": "NSE_FO|61565",
+        "expiry": "2026-11-23",
+        "lot": 2425,
+        "symbol": "ETERNAL26NOVFUT"
+    },
+    "FORCEMOT": {
+        "key": "NSE_FO|61567",
+        "expiry": "2026-11-23",
+        "lot": 25,
+        "symbol": "FORCEMOT26NOVFUT"
+    },
+    "CUB": {
+        "key": "NSE_FO|54919",
+        "expiry": "2026-11-23",
+        "lot": 2325,
+        "symbol": "CUB26NOVFUT"
+    },
+    "DABUR": {
+        "key": "NSE_FO|61555",
+        "expiry": "2026-11-23",
+        "lot": 1250,
+        "symbol": "DABUR26NOVFUT"
+    },
+    "CUMMINSIND": {
+        "key": "NSE_FO|61546",
+        "expiry": "2026-11-23",
+        "lot": 100,
+        "symbol": "CUMMINSIND26NOVFUT"
+    },
+    "DATAPATTNS": {
+        "key": "NSE_FO|54924",
+        "expiry": "2026-11-23",
+        "lot": 125,
+        "symbol": "DATAPATTNS26NOVFUT"
+    },
+    "DELHIVERY": {
+        "key": "NSE_FO|61556",
+        "expiry": "2026-11-23",
+        "lot": 2075,
+        "symbol": "DELHIVERY26NOVFUT"
+    },
+    "DIVISLAB": {
+        "key": "NSE_FO|61558",
+        "expiry": "2026-11-23",
+        "lot": 100,
+        "symbol": "DIVISLAB26NOVFUT"
+    },
+    "HCLTECH": {
+        "key": "NSE_FO|61580",
+        "expiry": "2026-11-23",
+        "lot": 400,
+        "symbol": "HCLTECH26NOVFUT"
+    },
+    "HAVELLS": {
+        "key": "NSE_FO|61579",
+        "expiry": "2026-11-23",
+        "lot": 500,
+        "symbol": "HAVELLS26NOVFUT"
+    },
+    "HDFCAMC": {
+        "key": "NSE_FO|61581",
+        "expiry": "2026-11-23",
+        "lot": 300,
+        "symbol": "HDFCAMC26NOVFUT"
+    },
+    "HDFCBANK": {
+        "key": "NSE_FO|61582",
+        "expiry": "2026-11-23",
+        "lot": 650,
+        "symbol": "HDFCBANK26NOVFUT"
+    },
+    "HDFCLIFE": {
+        "key": "NSE_FO|61583",
+        "expiry": "2026-11-23",
+        "lot": 1100,
+        "symbol": "HDFCLIFE26NOVFUT"
+    },
+    "GAIL": {
+        "key": "NSE_FO|61569",
+        "expiry": "2026-11-23",
+        "lot": 3550,
+        "symbol": "GAIL26NOVFUT"
+    },
+    "FORTIS": {
+        "key": "NSE_FO|61568",
+        "expiry": "2026-11-23",
+        "lot": 775,
+        "symbol": "FORTIS26NOVFUT"
+    },
+    "GMRAIRPORT": {
+        "key": "NSE_FO|61571",
+        "expiry": "2026-11-23",
+        "lot": 6975,
+        "symbol": "GMRAIRPORT26NOVFUT"
+    },
+    "GLENMARK": {
+        "key": "NSE_FO|61570",
+        "expiry": "2026-11-23",
+        "lot": 375,
+        "symbol": "GLENMARK26NOVFUT"
+    },
+    "GODREJCP": {
+        "key": "NSE_FO|61573",
+        "expiry": "2026-11-23",
+        "lot": 500,
+        "symbol": "GODREJCP26NOVFUT"
+    },
+    "GODFRYPHLP": {
+        "key": "NSE_FO|61572",
+        "expiry": "2026-11-23",
+        "lot": 275,
+        "symbol": "GODFRYPHLP26NOVFUT"
+    },
+    "GRASIM": {
+        "key": "NSE_FO|61575",
+        "expiry": "2026-11-23",
+        "lot": 250,
+        "symbol": "GRASIM26NOVFUT"
+    },
+    "GODREJPROP": {
+        "key": "NSE_FO|61574",
+        "expiry": "2026-11-23",
+        "lot": 325,
+        "symbol": "GODREJPROP26NOVFUT"
+    },
+    "HAL": {
+        "key": "NSE_FO|61578",
+        "expiry": "2026-11-23",
+        "lot": 150,
+        "symbol": "HAL26NOVFUT"
+    },
+    "GVT&D": {
+        "key": "NSE_FO|61576",
+        "expiry": "2026-11-23",
+        "lot": 125,
+        "symbol": "GVT&D26NOVFUT"
+    },
+    "CONCOR": {
+        "key": "NSE_FO|61544",
+        "expiry": "2026-11-23",
+        "lot": 1250,
+        "symbol": "CONCOR26NOVFUT"
+    },
+    "COLPAL": {
+        "key": "NSE_FO|61543",
+        "expiry": "2026-11-23",
+        "lot": 275,
+        "symbol": "COLPAL26NOVFUT"
+    },
+    "COROMANDEL": {
+        "key": "NSE_FO|54913",
+        "expiry": "2026-11-23",
+        "lot": 300,
+        "symbol": "COROMANDEL26NOVFUT"
+    },
+    "CROMPTON": {
+        "key": "NSE_FO|61545",
+        "expiry": "2026-11-23",
+        "lot": 2150,
+        "symbol": "CROMPTON26NOVFUT"
+    },
+    "COCHINSHIP": {
+        "key": "NSE_FO|61541",
+        "expiry": "2026-11-23",
+        "lot": 400,
+        "symbol": "COCHINSHIP26NOVFUT"
+    },
+    "COALINDIA": {
+        "key": "NSE_FO|61540",
+        "expiry": "2026-11-23",
+        "lot": 1350,
+        "symbol": "COALINDIA26NOVFUT"
+    },
+    "COFORGE": {
+        "key": "NSE_FO|61542",
+        "expiry": "2026-11-23",
+        "lot": 475,
+        "symbol": "COFORGE26NOVFUT"
+    },
+    "HINDPETRO": {
+        "key": "NSE_FO|61590",
+        "expiry": "2026-11-23",
+        "lot": 2025,
+        "symbol": "HINDPETRO26NOVFUT"
+    },
+    "HINDALCO": {
+        "key": "NSE_FO|61585",
+        "expiry": "2026-11-23",
+        "lot": 700,
+        "symbol": "HINDALCO26NOVFUT"
+    },
+    "HEROMOTOCO": {
+        "key": "NSE_FO|61584",
+        "expiry": "2026-11-23",
+        "lot": 150,
+        "symbol": "HEROMOTOCO26NOVFUT"
+    },
+    "HINDZINC": {
+        "key": "NSE_FO|61592",
+        "expiry": "2026-11-23",
+        "lot": 1225,
+        "symbol": "HINDZINC26NOVFUT"
+    },
+    "HINDUNILVR": {
+        "key": "NSE_FO|61591",
+        "expiry": "2026-11-23",
+        "lot": 300,
+        "symbol": "HINDUNILVR26NOVFUT"
+    },
+    "CANBK": {
+        "key": "NSE_FO|61527",
+        "expiry": "2026-11-23",
+        "lot": 6750,
+        "symbol": "CANBK26NOVFUT"
+    },
+    "CIPLA": {
+        "key": "NSE_FO|61539",
+        "expiry": "2026-11-23",
+        "lot": 425,
+        "symbol": "CIPLA26NOVFUT"
+    },
+    "CGPOWER": {
+        "key": "NSE_FO|61537",
+        "expiry": "2026-11-23",
+        "lot": 850,
+        "symbol": "CGPOWER26NOVFUT"
+    },
+    "CDSL": {
+        "key": "NSE_FO|61528",
+        "expiry": "2026-11-23",
+        "lot": 475,
+        "symbol": "CDSL26NOVFUT"
+    },
+    "CHOLAFIN": {
+        "key": "NSE_FO|61538",
+        "expiry": "2026-11-23",
+        "lot": 625,
+        "symbol": "CHOLAFIN26NOVFUT"
+    },
+    "BANDHANBNK": {
+        "key": "NSE_FO|61508",
+        "expiry": "2026-11-23",
+        "lot": 3600,
+        "symbol": "BANDHANBNK26NOVFUT"
+    },
+    "BAJFINANCE": {
+        "key": "NSE_FO|61507",
+        "expiry": "2026-11-23",
+        "lot": 750,
+        "symbol": "BAJFINANCE26NOVFUT"
+    },
+    "BANKINDIA": {
+        "key": "NSE_FO|61510",
+        "expiry": "2026-11-23",
+        "lot": 5200,
+        "symbol": "BANKINDIA26NOVFUT"
+    },
+    "BANKBARODA": {
+        "key": "NSE_FO|61509",
+        "expiry": "2026-11-23",
+        "lot": 2925,
+        "symbol": "BANKBARODA26NOVFUT"
+    },
+    "ATHERENERG": {
+        "key": "NSE_FO|61497",
+        "expiry": "2026-11-23",
+        "lot": 375,
+        "symbol": "ATHERENERG26NOVFUT"
+    },
+    "ASTRAL": {
+        "key": "NSE_FO|61490",
+        "expiry": "2026-11-23",
+        "lot": 425,
+        "symbol": "ASTRAL26NOVFUT"
+    },
+    "AUROPHARMA": {
+        "key": "NSE_FO|61503",
+        "expiry": "2026-11-23",
+        "lot": 550,
+        "symbol": "AUROPHARMA26NOVFUT"
+    },
+    "AUBANK": {
+        "key": "NSE_FO|61502",
+        "expiry": "2026-11-23",
+        "lot": 500,
+        "symbol": "AUBANK26NOVFUT"
+    },
+    "BAJAJ-AUTO": {
+        "key": "NSE_FO|61505",
+        "expiry": "2026-11-23",
+        "lot": 75,
+        "symbol": "BAJAJ-AUTO26NOVFUT"
+    },
+    "AXISBANK": {
+        "key": "NSE_FO|61504",
+        "expiry": "2026-11-23",
+        "lot": 625,
+        "symbol": "AXISBANK26NOVFUT"
+    },
+    "BAJAJFINSV": {
+        "key": "NSE_FO|61506",
+        "expiry": "2026-11-23",
+        "lot": 300,
+        "symbol": "BAJAJFINSV26NOVFUT"
+    },
+    "APOLLOHOSP": {
+        "key": "NSE_FO|61487",
+        "expiry": "2026-11-23",
+        "lot": 125,
+        "symbol": "APOLLOHOSP26NOVFUT"
+    },
+    "ASIANPAINT": {
+        "key": "NSE_FO|61489",
+        "expiry": "2026-11-23",
+        "lot": 250,
+        "symbol": "ASIANPAINT26NOVFUT"
+    },
+    "ASHOKLEY": {
+        "key": "NSE_FO|61488",
+        "expiry": "2026-11-23",
+        "lot": 5000,
+        "symbol": "ASHOKLEY26NOVFUT"
+    },
+    "AMBER": {
+        "key": "NSE_FO|61483",
+        "expiry": "2026-11-23",
+        "lot": 100,
+        "symbol": "AMBER26NOVFUT"
+    },
+    "ALKEM": {
+        "key": "NSE_FO|61482",
+        "expiry": "2026-11-23",
+        "lot": 125,
+        "symbol": "ALKEM26NOVFUT"
+    },
+    "ANANDRATHI": {
+        "key": "NSE_FO|58890",
+        "expiry": "2026-11-23",
+        "lot": 250,
+        "symbol": "ANANDRATHI26NOVFUT"
+    },
+    "AMBUJACEM": {
+        "key": "NSE_FO|61484",
+        "expiry": "2026-11-23",
+        "lot": 1200,
+        "symbol": "AMBUJACEM26NOVFUT"
+    },
+    "ANGELONE": {
+        "key": "NSE_FO|61485",
+        "expiry": "2026-11-23",
+        "lot": 2500,
+        "symbol": "ANGELONE26NOVFUT"
+    },
+    "APLAPOLLO": {
+        "key": "NSE_FO|61486",
+        "expiry": "2026-11-23",
+        "lot": 350,
+        "symbol": "APLAPOLLO26NOVFUT"
+    },
+    "BPCL": {
+        "key": "NSE_FO|61523",
+        "expiry": "2026-11-23",
+        "lot": 1975,
+        "symbol": "BPCL26NOVFUT"
+    },
+    "BOSCHLTD": {
+        "key": "NSE_FO|61522",
+        "expiry": "2026-11-23",
+        "lot": 25,
+        "symbol": "BOSCHLTD26NOVFUT"
+    },
+    "BSE": {
+        "key": "NSE_FO|61525",
+        "expiry": "2026-11-23",
+        "lot": 200,
+        "symbol": "BSE26NOVFUT"
+    },
+    "BRITANNIA": {
+        "key": "NSE_FO|61524",
+        "expiry": "2026-11-23",
+        "lot": 125,
+        "symbol": "BRITANNIA26NOVFUT"
+    },
+    "CAMS": {
+        "key": "NSE_FO|61526",
+        "expiry": "2026-11-23",
+        "lot": 825,
+        "symbol": "CAMS26NOVFUT"
+    },
+    "BLUESTARCO": {
+        "key": "NSE_FO|61521",
+        "expiry": "2026-11-23",
+        "lot": 325,
+        "symbol": "BLUESTARCO26NOVFUT"
+    },
+    "BEL": {
+        "key": "NSE_FO|61512",
+        "expiry": "2026-11-23",
+        "lot": 1425,
+        "symbol": "BEL26NOVFUT"
+    },
+    "BDL": {
+        "key": "NSE_FO|61511",
+        "expiry": "2026-11-23",
+        "lot": 425,
+        "symbol": "BDL26NOVFUT"
+    },
+    "BHARTIARTL": {
+        "key": "NSE_FO|61515",
+        "expiry": "2026-11-23",
+        "lot": 475,
+        "symbol": "BHARTIARTL26NOVFUT"
+    },
+    "BHARATFORG": {
+        "key": "NSE_FO|61513",
+        "expiry": "2026-11-23",
+        "lot": 500,
+        "symbol": "BHARATFORG26NOVFUT"
+    },
+    "BIOCON": {
+        "key": "NSE_FO|61520",
+        "expiry": "2026-11-23",
+        "lot": 2500,
+        "symbol": "BIOCON26NOVFUT"
+    },
+    "BHEL": {
+        "key": "NSE_FO|61516",
+        "expiry": "2026-11-23",
+        "lot": 2625,
+        "symbol": "BHEL26NOVFUT"
+    },
+    "ADANIPOWER": {
+        "key": "NSE_FO|61481",
+        "expiry": "2026-11-23",
+        "lot": 3550,
+        "symbol": "ADANIPOWER26NOVFUT"
+    },
+    "ADANIPORTS": {
+        "key": "NSE_FO|61480",
+        "expiry": "2026-11-23",
+        "lot": 475,
+        "symbol": "ADANIPORTS26NOVFUT"
+    },
+    "360ONE": {
+        "key": "NSE_FO|61474",
+        "expiry": "2026-11-23",
+        "lot": 500,
+        "symbol": "360ONE26NOVFUT"
+    },
+    "ABCAPITAL": {
+        "key": "NSE_FO|61476",
+        "expiry": "2026-11-23",
+        "lot": 1550,
+        "symbol": "ABCAPITAL26NOVFUT"
+    },
+    "ABB": {
+        "key": "NSE_FO|61475",
+        "expiry": "2026-11-23",
+        "lot": 125,
+        "symbol": "ABB26NOVFUT"
+    },
+    "ADANIENT": {
+        "key": "NSE_FO|61478",
+        "expiry": "2026-11-23",
+        "lot": 309,
+        "symbol": "ADANIENT26NOVFUT"
+    },
+    "ADANIENSOL": {
+        "key": "NSE_FO|61477",
+        "expiry": "2026-11-23",
+        "lot": 675,
+        "symbol": "ADANIENSOL26NOVFUT"
+    },
+    "ADANIGREEN": {
+        "key": "NSE_FO|61479",
+        "expiry": "2026-11-23",
+        "lot": 600,
+        "symbol": "ADANIGREEN26NOVFUT"
+    },
+    "SYRMA": {
+        "key": "NSE_FO|55144",
+        "expiry": "2026-11-23",
+        "lot": 325,
+        "symbol": "SYRMA26NOVFUT"
+    },
+    "NAVINFLUOR": {
+        "key": "NSE_FO|55076",
+        "expiry": "2026-11-23",
+        "lot": 75,
+        "symbol": "NAVINFLUOR26NOVFUT"
+    },
+    "IDEA": {
+        "key": "NSE_FO|61598",
+        "expiry": "2026-11-23",
+        "lot": 71475,
+        "symbol": "IDEA26NOVFUT"
+    },
+    "IDFCFIRSTB": {
+        "key": "NSE_FO|61599",
+        "expiry": "2026-11-23",
+        "lot": 9275,
+        "symbol": "IDFCFIRSTB26NOVFUT"
+    },
+    "INDIGO": {
+        "key": "NSE_FO|61603",
+        "expiry": "2026-11-23",
+        "lot": 150,
+        "symbol": "INDIGO26NOVFUT"
+    },
+    "INDUSINDBK": {
+        "key": "NSE_FO|61606",
+        "expiry": "2026-11-23",
+        "lot": 700,
+        "symbol": "INDUSINDBK26NOVFUT"
+    },
+    "INDHOTEL": {
+        "key": "NSE_FO|61601",
+        "expiry": "2026-11-23",
+        "lot": 1000,
+        "symbol": "INDHOTEL26NOVFUT"
+    },
+    "INDIANB": {
+        "key": "NSE_FO|61602",
+        "expiry": "2026-11-23",
+        "lot": 1000,
+        "symbol": "INDIANB26NOVFUT"
+    },
+    "ICICIGI": {
+        "key": "NSE_FO|61596",
+        "expiry": "2026-11-23",
+        "lot": 325,
+        "symbol": "ICICIGI26NOVFUT"
+    },
+    "HYUNDAI": {
+        "key": "NSE_FO|61594",
+        "expiry": "2026-11-23",
+        "lot": 275,
+        "symbol": "HYUNDAI26NOVFUT"
+    },
+    "ICICIBANK": {
+        "key": "NSE_FO|61595",
+        "expiry": "2026-11-23",
+        "lot": 700,
+        "symbol": "ICICIBANK26NOVFUT"
+    },
+    "ICICILIFE": {
+        "key": "NSE_FO|61597",
+        "expiry": "2026-11-23",
+        "lot": 925,
+        "symbol": "ICICILIFE26NOVFUT"
+    },
+    "KARURVYSYA": {
+        "key": "NSE_FO|55040",
+        "expiry": "2026-11-23",
+        "lot": 1550,
+        "symbol": "KARURVYSYA26NOVFUT"
+    },
+    "IREDA": {
+        "key": "NSE_FO|61613",
+        "expiry": "2026-11-23",
+        "lot": 4525,
+        "symbol": "IREDA26NOVFUT"
+    },
+    "IEX": {
+        "key": "NSE_FO|61600",
+        "expiry": "2026-11-23",
+        "lot": 4350,
+        "symbol": "IEX26NOVFUT"
+    }
+}

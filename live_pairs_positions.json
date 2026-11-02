@@ -1,0 +1,58 @@
+{
+    "PFC-REC": {
+        "position": -1,
+        "entry_price_a": 317.25,
+        "entry_price_b": 288.0,
+        "entry_spread": 0.09672962645855065,
+        "entry_time": "2026-11-02 14:45:22"
+    },
+    "TCS-INFY": {
+        "position": 1,
+        "entry_price_a": 2506.3,
+        "entry_price_b": 1163.1,
+        "entry_spread": 0.7677187076355736,
+        "entry_time": "2026-11-02 15:32:01"
+    },
+    "ICICI-HDFC": {
+        "position": 1,
+        "entry_price_a": 1403.6,
+        "entry_price_b": 697.35,
+        "entry_spread": 0.6995082069043566,
+        "entry_time": "2026-11-02 09:29:35"
+    },
+    "TATASTEEL-JSW": {
+        "position": 1,
+        "entry_price_a": 176.85,
+        "entry_price_b": 1293.0,
+        "entry_spread": -1.9894184631203675,
+        "entry_time": "2026-11-02 13:16:27"
+    },
+    "BOB-CANBK": {
+        "position": 0,
+        "entry_price_a": 0.0,
+        "entry_price_b": 0.0,
+        "entry_spread": 0.0,
+        "entry_time": ""
+    },
+    "NTPC-POWERGRID": {
+        "position": -1,
+        "entry_price_a": 323.45,
+        "entry_price_b": 264.65,
+        "entry_spread": 0.2006363441859973,
+        "entry_time": "2026-11-02 13:04:09"
+    },
+    "HEROMOTO-BAJAJ": {
+        "position": 0,
+        "entry_price_a": 0.0,
+        "entry_price_b": 0.0,
+        "entry_spread": 0.0,
+        "entry_time": ""
+    },
+    "AXIS-KOTAK": {
+        "position": 0,
+        "entry_price_a": 0.0,
+        "entry_price_b": 0.0,
+        "entry_spread": 0.0,
+        "entry_time": ""
+    }
+}
